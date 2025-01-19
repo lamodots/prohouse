@@ -1,5 +1,6 @@
 # Future of Real Estate Investing
 
+<img src="./prohouse.PNG" alt="image" >
 # Welcome to the future of real estate investing! 🚀
 
 Our platform offers virtual property investment opportunities in the metaverse. Buy, sell, and manage virtual real estate assets in a digital universe designed for immersive experiences and financial growth.
@@ -26,5 +27,12 @@ git clone `https://github.com/lamodots/prohouse.git`
 
 ```js
 npm run start
+
+```
+
+### Live project
+
+```js
+https://prohouse.onrender.com
 
 ```
